@@ -21,3 +21,5 @@ Students who pass this course will be able to:
 - Presentation
     - [PDF Version](Reports/Presentation.pdf)
     - [Powerpoint Version with Animation](Reports/Presentation.pptx)
+
+An image of the final created tree can be seen in the final report and the presentation.
